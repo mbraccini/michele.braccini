@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
+## About me
+...
 
-You can use the [editor on GitHub](https://github.com/mbraccini/michele.braccini/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Quotations
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [...] should such complex systems exhibit spontaneous order, that order can shine through not because of selection , but despite it. Some of the order in organisms may reflect not selection's success, but its failure.
+_[The Origins of Order S.Kauffman p.XV]_
