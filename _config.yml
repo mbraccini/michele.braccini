@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://mbraccini.github.io/michele.braccini/"
-baseurl: "/researcher"
+url: "https://mbraccini.github.io/"
+baseurl: "/michele.braccini"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
