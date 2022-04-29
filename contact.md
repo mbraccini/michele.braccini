@@ -3,15 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [braccini.michele@gmail.com](mailto:braccini.michele@gmail.com)
+* Email: [foo@xyz.com](mailto:foo@xyz.com)
+
+* Phone: [+91-123123](tel:+91-123123)
 
 ---
 
-## Located @
+## Mailing Address
 
-> Cesena (FC)
+> 221B, Baker Street
 >
-> Italy
+> London
+>
+> United Kingdom
 
 ---
 
