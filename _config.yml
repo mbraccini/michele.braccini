@@ -1,6 +1,6 @@
-title: Researcher
+title: MB
 url: "https://mbraccini.github.io"
-baseurl: "/michele.braccini"
+baseurl: "/michele.braccini/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/mbraccini/michele.braccini"
-footer_text: "Michele Braccini GitHub"
+footer_url: "https://github.com/mbraccini/"
+footer_text: "Michele Braccini - GitHub"
 
 sass:
     style: compressed
