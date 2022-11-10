@@ -12,7 +12,9 @@ is_contact: true
 ## Located @
 
 > Dipartimento di Informatica - Ingegneria e Scienze Informatiche 
+>
 > Campus di Cesena I-47521 Cesena (FC)
+>
 > Italy
 
 ---
