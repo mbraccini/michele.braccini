@@ -3,20 +3,21 @@ layout: default
 is_contact: true
 ---
 
-* Email: [braccini.michele@gmail.com](mailto:braccini.michele@gmail.com)
+* Academic email: [m.braccini@unibo.it](m.braccini@unibo.it)
+* Personal email: [braccini.michele@gmail.com](mailto:braccini.michele@gmail.com)
+
 
 ---
 
 ## Located @
 
-> Cesena (FC)
->
+> Dipartimento di Informatica - Ingegneria e Scienze Informatiche 
+> Campus di Cesena I-47521 Cesena (FC)
 > Italy
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/braccinimichele)
+2. [LinkedIn](https://www.linkedin.com/in/michele-braccini/)
