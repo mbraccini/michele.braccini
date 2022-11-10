@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Academic email: [m.braccini@unibo.it](m.braccini@unibo.it)
+* Academic email: [m.braccini@unibo.it](mailto:m.braccini@unibo.it)
 * Personal email: [braccini.michele@gmail.com](mailto:braccini.michele@gmail.com)
 
 
