@@ -6,20 +6,19 @@ layout: default
 
 <img class="profile-picture" src="io.jpeg">
 
-Hi! My name is Michele Braccini and I got a PhD in Computer Science and Engineering at the University of Bologna, Italy.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Postdoc researcher, dad of Amelia, Tamara's husband, singer and guitarist, photography enthusiast and a huge fan of Inter Milan.
 
 ---
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research interests mainly concern the *science of complexity*, *dynamical systems*, *biological cell differentiation*, *Boolean networks*, *robotics*, *evolution and adaptation of both biological and artificial organisms*.
 
 ---
 
 ## Publications
 
+- **Braccini, M.**, Roli, A., Barbieri, E. and Kauffman, S. A. On the criticality of adaptive boolean network robots. Entropy, 24(10), 2022. *Paper selected as **“Feature Paper”** by Entropy, as it is considered advanced research with significant potential for high impact in the field. It was also selected as **title story** for Entropy in November 2022.*
 - **Braccini, M.**, Roli, A., Villani, and Serra, R. (2020). Dynamical properties and path dependence in a gene-network model of cell differentiation. Soft Computing. https://doi.org/10.1007/s00500-020-05354-0
 - Montagna, S., **Braccini, M.**, and Roli, A. (2020). The impact of self-loops on boolean networks attractor landscape and implications for cell differentiation modelling. IEEE/ACM Transactions on Computational Biology and Bioinformatics. To be published. Available as early access.
 - **Braccini, M.**, Roli, A., and Kauffman, S. A. (2020). Online adaptation in robots as biological development provides phenotypic plasticity. arXiv preprint arXiv:2006.02367. To be submitted.
@@ -39,6 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 Year  |  Description
 ------|-----
+[2022- ] | Research fellow @ Department of Computer Science and Engineering, University of Bologna
 [2021-2022] | Research fellow @ European Centre for Living Technology ECLT, Università Ca’ Foscari, Venezia
 [2020-2021] | Research fellow @ Department of Computer Science and Engineering, University of Bologna
 2018 | Visiting Researcher @ Institute for Systems Biology (ISB), Seattle (WA), USA
@@ -48,15 +48,4 @@ Year  |  Description
 [2010-2013] | Bachelor of Science in Information Engineering (L-8)
 2010 | High School Diploma
 
-Here is a horizontal rule
-
 ---
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
